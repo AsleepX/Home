@@ -8,5 +8,3 @@ title: AsleepX's Home
 - [[Game]]
 - [[Study]]
 - [[Life]]
-
-#Game
