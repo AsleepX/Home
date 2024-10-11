@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: AsleepX's Home
 ---
+04 年出生的赵子轩，在 24 年秋天终于有了自己的网站。
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+他会在这个隐秘的角落写些什么呢？是抱怨美团的自行车左车把为什么那么黏？还是为上不了王者而生气？可以肯定的是，他不会写什么真正有用的东西，只会吐槽这个吐槽那个，缓解自己的情绪，也许也能让读者们图一乐。
