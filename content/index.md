@@ -1,5 +1,7 @@
 ---
 title: Homepage
+tags:
+  - Home
 ---
 04 年出生的赵子轩，在 24 年秋天终于有了自己的网站。
 
@@ -8,3 +10,4 @@ title: Homepage
 - [[Game]]
 - [[Study]]
 - [[Life]]
+
