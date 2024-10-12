@@ -9,5 +9,5 @@ tags:
 
 - [[Game]]
 - [[Study]]
-- [[Life]]
+- [[Art]]
 
