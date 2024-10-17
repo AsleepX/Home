@@ -11,4 +11,5 @@ tags:
 - [[Study]]
 - [[Poem]]
 - [[Movie]]
+- [[Music]]
 
