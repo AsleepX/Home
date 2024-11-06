@@ -1,10 +1,11 @@
 ---
-title: Cluckbar软件
+title: Clickbar软件
 draft: false
 tags:
   - 软件
   - 工具
 ---
+# 软件介绍
 用 cursor 写的软件，可以将一个指定窗口变成侧边栏，通过点击屏幕右上角来控制显隐。
 
 1. 当侧边栏未最大化时，点击屏幕右上角来控制显隐
@@ -15,3 +16,5 @@ tags:
 Download：[[SideBar.exe]]
 
 exe 会在同文件目录下产生一个 json 文件用于保存设置
+# 用途
+我是把浏览器 chatgpt 变成侧边栏用，就是视频里的状态，感觉方便一点 😶‍🌫️
