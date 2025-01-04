@@ -2,10 +2,12 @@
 title: Music
 draft: false
 tags:
+  - Music
 ---
-找得到 mp3 的会直接放这里，找不到的就贴 Spotify 链接了（）
+这里是一些好听的歌。
 
 - [[591]]
 - [[便利店女孩]]
 - [[背上悲伤北上]]
 - [[Come Play]]
+- [[LIFE]]
