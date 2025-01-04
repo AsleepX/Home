@@ -6,7 +6,7 @@ tags:
   - AI
   - Vedal
 ---
-![[LIFE - Neuro-sama [LIFE].flac]]
+![[LIFE - Neuro-sama.flac]]
 
 if I could walk right beside you show you just who I am
 
