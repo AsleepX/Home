@@ -2,6 +2,7 @@
 title: Movie
 draft: false
 tags:
+  - Movie
 ---
 - [[Look Back]]
 - [[双城之战第一季]]
