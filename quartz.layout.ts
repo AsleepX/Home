@@ -19,6 +19,7 @@ export const sharedPageComponents: SharedLayout = {
         categoryId: 'DIC_kwDOM-rMps4Cl2vV',
 
         themeUrl: "https://github.com/AsleepX/Home/tree/v4/quartz/static/giscus", 
+        lightTheme: "light",
       }
     }),
   ],
