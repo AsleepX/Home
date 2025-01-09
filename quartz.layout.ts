@@ -17,6 +17,8 @@ export const sharedPageComponents: SharedLayout = {
         category: 'Announcements',
         // from data-category-id
         categoryId: 'DIC_kwDOM-rMps4Cl2vV',
+
+        themeUrl: "https://github.com/AsleepX/Home/tree/v4/quartz/static/giscus", 
       }
     }),
   ],
