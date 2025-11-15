@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: "{{@name}}"
 draft: true
 tags:
 ---
