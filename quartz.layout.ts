@@ -7,7 +7,14 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [
     Component.ConditionalRender({
-      component: Component.RecentNotes({ title: "Recent Notes", limit: 5 }),
+      component: Component.RecentNotes({
+        title: "Recent Notes",
+        limit: 5,
+        filter: (f) => {
+          const excludedSlugs = new Set(["index", "view", "poem", "game", "study", "music"])
+          return !excludedSlugs.has(f.slug!.toLowerCase())
+        },
+      }),
       condition: (page) => page.fileData.slug === "index",
     }),
     Component.Comments({
