@@ -6,6 +6,10 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
+    Component.ConditionalRender({
+      component: Component.RecentNotes({ title: "Recent Notes", limit: 5 }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
     Component.Comments({
       provider: 'giscus',
       options: {
