@@ -1,6 +1,6 @@
 ---
 title: 55%的日出_music
-draft: true
+draft: false
 tags:
   - Music
 ---
