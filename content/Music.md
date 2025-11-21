@@ -12,3 +12,4 @@ tags:
 - [[Come Play]]
 - [[LIFE]]
 - [[Writing Reality]]
+- [[55%的日出_music]]
